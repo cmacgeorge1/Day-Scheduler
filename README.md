@@ -7,7 +7,7 @@ The colors of the text areas will change depending on the time of day. Grey for 
 # GitHub Repository Link
 https://github.com/cmacgeorge1/Day-Scheduler
 # GitHub Live Link
-
+https://cmacgeorge1.github.io/Day-Scheduler/
 # Page Screenshot
 
 ![About](https://github.com/cmacgeorge1/Day-Scheduler/blob/master/img/planner_SS.png)
