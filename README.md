@@ -10,4 +10,4 @@ https://github.com/cmacgeorge1/Day-Scheduler
 
 # Page Screenshot
 
-![About]()
+![About](https://github.com/cmacgeorge1/Day-Scheduler/blob/master/img/planner_SS.png)
